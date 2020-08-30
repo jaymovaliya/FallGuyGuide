@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "facebookAppId": "909047592953933",
+    "isDetached": true
   }
 }
